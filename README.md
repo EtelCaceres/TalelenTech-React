@@ -1,6 +1,6 @@
 # 🧁 TalelenTech - Proyecto React de Venta de Tortas
 
-Este repositorio contiene un proyecto desarrollado con **React** como parte de una entrega para el curso de React en [Coderhouse](https://www.coderhouse.com/).
+Este repositorio contiene un proyecto desarrollado con **React** como parte de una entrega para el curso de React en Talento Tech.
 
 El proyecto simula una tienda online de tortas, donde el usuario puede explorar productos, ver detalles, agregar items al carrito y navegar entre distintas secciones de la página.
 
